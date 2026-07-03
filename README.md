@@ -6,6 +6,8 @@ This project was completed as part of my **DecodeLab Data Analytics Virtual Inte
 
 The objective was to clean and prepare a raw dataset for analysis by identifying and correcting common data quality issues.
 
+---
+
 ## Project Objectives
 
 * Handle missing values
@@ -14,9 +16,14 @@ The objective was to clean and prepare a raw dataset for analysis by identifying
 * Standardize text values
 * Prepare the dataset for analysis
 
+---
+
 ## Tools Used
 
 * Microsoft Excel
+
+---
+
 ## Data Cleaning Tasks Performed
 
 ✔ Removed duplicate records
@@ -50,5 +57,17 @@ The objective was to clean and prepare a raw dataset for analysis by identifying
 * Cleaned Dataset
 * Before Cleaning Screenshot
 * After Cleaning Screenshot
+
+---
+
 ## Project Outcome
+
 The dataset is now clean, consistent and ready for analysis and visualization.
+
+
+## Before Cleaning
+<img width="1907" height="975" alt="MESSY DATASET" src="https://github.com/user-attachments/assets/e789382f-a90d-4804-a150-4844a3c35376" />
+
+
+## After Cleaning
+<img width="1920" height="977" alt="CLEAN DATASET" src="https://github.com/user-attachments/assets/a066e1cd-f3b1-4bb3-a281-b9e6ee1530cb" />
