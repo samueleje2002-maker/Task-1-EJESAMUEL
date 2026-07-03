@@ -57,5 +57,4 @@ The objective was to clean and prepare a raw dataset for analysis by identifying
 
 The dataset is now clean, consistent and ready for analysis and visualization.
 
-
-Following these steps will give you a GitHub project that looks organized and demonstrates not only your Excel skills but also your ability to document a rdata analytics workflow.
+analytics workflow.
