@@ -50,11 +50,5 @@ The objective was to clean and prepare a raw dataset for analysis by identifying
 * Cleaned Dataset
 * Before Cleaning Screenshot
 * After Cleaning Screenshot
-
----
-
 ## Project Outcome
-
 The dataset is now clean, consistent and ready for analysis and visualization.
-
-analytics workflow.
